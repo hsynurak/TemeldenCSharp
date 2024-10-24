@@ -127,6 +127,7 @@ namespace _08_Methods
             Console.WriteLine(ExamResult("Ali", 50, 60, 70));
 
             Console.Read();
+            Console.Read();
 
 
         }
